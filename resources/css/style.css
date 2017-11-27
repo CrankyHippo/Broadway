@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.header {
+.header, .mid {
   color: white;
   background-image: url("../../resources/images/the-flatiron-building.png");
 }
@@ -35,10 +35,6 @@ div {
 
 .process p {
   font-size: 14px;
-}
-
-.mid {
-  background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
 .mid h3 {
